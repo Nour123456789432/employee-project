@@ -7,5 +7,3 @@ class Employe(models.Model):
 
     def _str_(self):
         return self.nom
-
-
